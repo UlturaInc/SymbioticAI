@@ -1,2 +1,2 @@
 # SymbioticAI
-News &amp; Content, Customized for You! - uses: https://github.com/MetaNewsNet
+News &amp; Content, Customized for You! Community: https://github.com/SymbioticAI - uses: https://github.com/MetaNewsNet
